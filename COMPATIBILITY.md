@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 3669870 |
 | Functions | Damage / Abilities / Combat speed / Progression / Encounter profiles |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## Setup
 
